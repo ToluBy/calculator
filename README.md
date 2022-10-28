@@ -1,3 +1,4 @@
+[![Build Status](https://tolugeek.visualstudio.com/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/ToluBy.calculator?branchName=master)](https://tolugeek.visualstudio.com/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_build/latest?definitionId=2&branchName=master)
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
